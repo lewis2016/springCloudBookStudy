@@ -1,0 +1,5 @@
+package com.lewis.web;
+@RestController
+public class HelloController {
+
+}

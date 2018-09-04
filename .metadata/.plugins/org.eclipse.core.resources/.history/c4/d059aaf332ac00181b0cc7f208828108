@@ -1,0 +1,5 @@
+package com.lewis.bean;
+
+public class Book {
+
+}
